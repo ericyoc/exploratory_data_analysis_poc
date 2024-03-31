@@ -67,7 +67,11 @@ The script generates the following visualizations:
 
 1. **Figure 1 - Age Distribution**: This plot shows the distribution of customer ages in the dataset. It helps identify the most common age ranges and any potential outliers or unusual patterns in the age distribution. Understanding the age distribution is important for targeted marketing strategies and customer segmentation.
 
+   ![Figure 1 - Age Distribution](https://github.com/ericyoc/exploratory_data_analysis_demo/blob/main/results/figure_1.jpg)
+
 2. **Figure 2 - Age vs Spending Score**: This plot visualizes the relationship between customer age and their spending score. It helps identify any potential patterns or trends in spending behavior across different age groups. If a clear relationship is observed, it suggests that age may be a significant factor influencing spending habits, which can be valuable for targeted marketing and customer segmentation.
+
+   ![Figure 2 - Age vs Spending Score](https://github.com/ericyoc/exploratory_data_analysis_demo/blob/main/results/Figure_2.jpg)
 
 ## Conclusion
 
