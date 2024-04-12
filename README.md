@@ -2,6 +2,9 @@
 
 This repository contains a Python script that demonstrates customer segmentation analysis using the "Mall Customers" dataset. The script combines, cleans, and pre-processes the data, performs exploratory data analysis (EDA), formulates and tests hypotheses, builds a linear regression model, and uses a machine learning model to make predictions.
 
+## Motivating Article
+Cuomo, M. T., Tortora, D., Colosimo, I., Ricciardi Celsi, L., Genovino, C., Festa, G., & La Rocca, M. (2023, June). Segmenting with big data analytics and Python: A quantitative exploratory analysis of household savings. Technological Forecasting and Social Change, 191, 122431. https://doi.org/10.1016/j.techfore.2023.122431
+
 ## Dataset
 
 The "Mall Customers" dataset used in this analysis can be found at the following link:
