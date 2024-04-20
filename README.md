@@ -81,3 +81,7 @@ The script generates the following visualizations:
 The customer segmentation analysis performed in this script provides insights into the "Mall Customers" dataset. By exploring the data, testing hypotheses, building a linear regression model, and using a machine learning model for predictions, we can gain a better understanding of customer behavior and make data-driven decisions for targeted marketing and customer segmentation.
 
 Feel free to explore the code, modify it, and adapt it to your specific needs. If you have any questions or suggestions, please feel free to open an issue or submit a pull request.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
